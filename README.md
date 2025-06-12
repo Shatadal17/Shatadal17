@@ -20,6 +20,8 @@
 ![SQL]![SQL Badge ](https://github.com/user-attachments/assets/c7acd02d-2d5f-4701-99ea-25d3d8335ed0)
 ![Power BI]![Power BI Analyst](https://github.com/user-attachments/assets/4986442d-858c-4535-a63c-2fd6b451cc16)
 ![VBA]![VBA Badge](https://github.com/user-attachments/assets/09d83d6e-0fd9-4bb2-9da0-acfa4f863860)
+![Python Badge](https://github.com/user-attachments/assets/1699b8b0-c74a-4fd6-be7b-d821a66fe26f)
+
 
 
 #### 🐍 Python & ML Libraries
