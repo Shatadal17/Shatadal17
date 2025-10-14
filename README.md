@@ -3,13 +3,21 @@
 
 ---
 
-### 🚀 About Me
+🚀 About Me
 
-🎓 I'm a science graduate with a major in **Physics Honours**, now passionately transitioning into the world of **Data Science**.  
-📊 Currently building a strong foundation in data analytics and machine learning to solve real-world problems.  
-📞 I also have 5 months of experience working as a **Customer Support Executive**, enhancing my communication and problem-solving skills.  
+👋 Hi, I'm Shatadal Chakraborty — an aspiring Data Scientist and Physics graduate passionate about transforming data into actionable insights.
 
-🧠 Always learning, always growing.
+🎓 With a background in Physics (Honours) and a growing expertise in Data Analytics, Machine Learning, and Business Intelligence, I love solving real-world problems through data-driven approaches.
+
+💼 I’ve completed a remote internship at Unified Mentor, where I worked on end-to-end data analysis and machine learning projects, including EV Sales Prediction and Laptop Price Analysis.
+
+🧠 My technical toolbox includes Python (pandas, numpy, matplotlib, seaborn, scikit-learn, XGBoost), SQL, Power BI, and Excel, along with a keen interest in AI, automation, and predictive modeling.
+
+📞 I also bring 5 months of professional experience as a Customer Support Executive, which helped me develop strong communication, analytical thinking, and client-handling skills.
+
+🌱 I believe in continuous learning — whether it’s mastering a new Python library, exploring Generative AI, or building meaningful data projects that make an impact.
+
+💡 "From Physics equations to data predictions — I’m on a journey to decode the world through data."
 
 ---
 
@@ -24,15 +32,8 @@
 
 
 
-#### 🐍 Python & ML Libraries
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-45b8ac?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Regression](https://img.shields.io/badge/Regression-00599C?style=for-the-badge)
-![Classification](https://img.shields.io/badge/Classification-007ACC?style=for-the-badge)
+🧠 Languages & Tools I Use
+<p align="center"> <!-- Programming & Data --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-45b8ac?style=for-the-badge" /> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge" /> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/VBA-185ABD?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </p>
 
 ---
 
