@@ -29,6 +29,8 @@
 ![Power BI]![Power BI Analyst](https://github.com/user-attachments/assets/4986442d-858c-4535-a63c-2fd6b451cc16)
 ![VBA]![VBA Badge](https://github.com/user-attachments/assets/09d83d6e-0fd9-4bb2-9da0-acfa4f863860)
 ![Python Badge](https://github.com/user-attachments/assets/1699b8b0-c74a-4fd6-be7b-d821a66fe26f)
+![Machine Learning Badge](https://github.com/user-attachments/assets/31a31672-3fdb-4265-a5a8-b065838c97dc)
+
 
 
 
